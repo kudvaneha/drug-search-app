@@ -1,0 +1,11 @@
+{
+  "drugs": [
+    { "name": "Aspirin", "rxcui": "12345" }
+  ],
+  "spellingsuggestions": [
+    { "input": "zyrte", "suggestions": ["zyrtec"] }
+  ],
+  "drugDetails": [
+    { "name": "Aspirin", "rxcui": "12345", "synonyms": ["Acetylsalicylic Acid"] }
+  ]
+}
